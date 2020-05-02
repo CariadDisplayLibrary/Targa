@@ -1,7 +1,7 @@
 #ifndef _TARGA_H
 #define _TARGA_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t Targa10[];
